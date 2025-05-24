@@ -44,6 +44,7 @@
   },
   "homepage": "https://github.com/381181295/monochai#readme",
   "license": "MIT",
+  "icon": "monochai.png",
   "galleryBanner": {
     "color": "#101010",
     "theme": "dark"
