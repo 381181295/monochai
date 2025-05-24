@@ -59,6 +59,10 @@ For the ultimate minimalist experience, consider these VSCode settings:
 ```json
 {
   "breadcrumbs.enabled": false,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.bracketPairsHorizontal": "active",
+  "editor.guides.highlightActiveBracketPair": false,
+  "editor.guides.highlightActiveIndentation": true,
   "editor.minimap.enabled": false,
   "editor.renderLineHighlight": "all",
   "editor.renderWhitespace": "none",
