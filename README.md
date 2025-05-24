@@ -1,6 +1,6 @@
 # Monochai
 
-**Simple monochrome themes for VSCode**
+**Simple monochrome themes**
 
 A clean monochrome theme inspired by [Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome) and [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode).
 
