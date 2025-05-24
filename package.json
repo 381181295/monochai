@@ -1,0 +1,51 @@
+{
+  "name": "monochai",
+  "displayName": "Monochai",
+  "description": "Minimalist monochromatic themes inspired by Monochrome and Monokai Pro. Beautiful functionality for professional developers.",
+  "version": "1.0.0",
+  "publisher": "381181295",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "monochromatic",
+    "minimal",
+    "minimalist",
+    "monochrome",
+    "monokai",
+    "professional"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monochai Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monochai-dark.json"
+      },
+      {
+        "label": "Monochai Light",
+        "uiTheme": "vs",
+        "path": "./themes/monochai-light.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/381181295/monochai"
+  },
+  "bugs": {
+    "url": "https://github.com/381181295/monochai/issues"
+  },
+  "homepage": "https://github.com/381181295/monochai#readme",
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#101010",
+    "theme": "dark"
+  }
+}
