@@ -2,7 +2,7 @@
   "name": "monochai",
   "displayName": "Monochai",
   "description": "Minimalist monochromatic themes inspired by Monochrome and Monokai Pro. Beautiful functionality for professional developers.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "381181295",
   "engines": {
     "vscode": "^1.74.0"
