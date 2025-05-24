@@ -12,6 +12,16 @@ Monochai combines the elegant simplicity of [Monochrome](https://marketplace.vis
 - **Complete Coverage**: Comprehensive theming for all VSCode UI elements
 - **Developer Focus**: Designed to minimize distractions and enhance code readability
 
+## Screenshots
+
+### Monochai Dark
+
+![Monochai Dark Theme](screenshots/monochai-dark.png)
+
+### Monochai Light
+
+![Monochai Light Theme](screenshots/monochai-light.png)
+
 ## Themes Included
 
 ### Monochai Dark
