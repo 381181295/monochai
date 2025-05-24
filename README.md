@@ -1,16 +1,15 @@
 # Monochai
 
-**Minimalist monochromatic themes for Visual Studio Code**
+**Simple monochrome themes for VSCode**
 
-Monochai combines the elegant simplicity of [Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome) with the refined aesthetics of [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode). Designed for developers who appreciate clean, distraction-free coding environments with beautiful functionality.
+A clean monochrome theme inspired by [Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome) and [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode).
 
-## Features
+## What you get
 
-- **Dual Themes**: Both dark and light variants included
-- **Monochromatic Design**: Clean, focused aesthetic using carefully selected grayscale colors
-- **Professional Polish**: Refined color choices inspired by industry-leading themes
-- **Complete Coverage**: Comprehensive theming for all VSCode UI elements
-- **Developer Focus**: Designed to minimize distractions and enhance code readability
+- Dark and light versions
+- Grayscale color scheme
+- Monokai accent colors
+- Clean, minimal interface
 
 ## Screenshots
 
@@ -18,19 +17,13 @@ Monochai combines the elegant simplicity of [Monochrome](https://marketplace.vis
 
 ![Monochai Dark Theme](screenshots/monochai-dark.png)
 
+**Colors:** Background `#101010` | Text `#EBEBEB` | Accents `#77dce8` `#fd9867` `#ff6188` `#a9dc76` `#ac9df2` `#ffd866`
+
 ### Monochai Light
 
 ![Monochai Light Theme](screenshots/monochai-light.png)
 
-## Themes Included
-
-### Monochai Dark
-
-A sophisticated dark theme with `#101010` background and `#EBEBEB` foreground, perfect for extended coding sessions.
-
-### Monochai Light
-
-An elegant light theme with `#EBEBEB` background and `#101010` foreground, ideal for well-lit environments.
+**Colors:** Background `#EBEBEB` | Text `#101010` | Accents `#198CA9` `#E25F32` `#E14775` `#279D69` `#7058BE` `#CD7A0A`
 
 ## Installation
 
@@ -41,30 +34,13 @@ An elegant light theme with `#EBEBEB` background and `#101010` foreground, ideal
 5. Go to File > Preferences > Color Theme (or press Ctrl+K Ctrl+T / Cmd+K Cmd+T)
 6. Select either "Monochai Dark" or "Monochai Light"
 
-## Color Palette
-
-### Dark Theme
-
-- **Background**: `#101010`
-- **Foreground**: `#EBEBEB`
-- **Accent Colors**: Subtle variations using alpha channels for depth
-
-### Light Theme
-
-- **Background**: `#EBEBEB`
-- **Foreground**: `#101010`
-- **Accent Colors**: Carefully balanced grayscale variations
-
 ## Inspiration
 
-Monochai draws inspiration from two exceptional themes:
+Based on [Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome) and [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode) themes.
 
-- **[Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome)**: For its pure monochromatic approach and minimalist philosophy
-- **[Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)**: For its professional refinement and attention to detail
+## Optional Settings
 
-## Recommended Settings
-
-For the ultimate minimalist experience, consider these VSCode settings:
+If you want to go full minimal, try these settings:
 
 ```json
 {
@@ -83,19 +59,10 @@ For the ultimate minimalist experience, consider these VSCode settings:
 }
 ```
 
-## Contributing
+## Issues
 
-Found an issue or have a suggestion? Please open an issue on [GitHub](https://github.com/381181295/monochai).
+Bug reports and suggestions welcome on [GitHub](https://github.com/381181295/monochai).
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) for details.
-
-## Acknowledgments
-
-- Thanks to the creators of Monochrome and Monokai Pro for the inspiration
-- Built with love for the developer community
-
----
-
-**Enjoy coding with Monochai!** 🎨
+MIT - see [LICENSE](LICENSE) file.
