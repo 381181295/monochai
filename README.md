@@ -75,7 +75,7 @@ For the ultimate minimalist experience, consider these VSCode settings:
 
 ## Contributing
 
-Found an issue or have a suggestion? Please open an issue on [GitHub](https://github.com/your-username/monochai).
+Found an issue or have a suggestion? Please open an issue on [GitHub](https://github.com/381181295/monochai).
 
 ## License
 
